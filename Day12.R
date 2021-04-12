@@ -4,12 +4,9 @@ library(curl)
 library(tidyverse)
 library(readxl)
 library(paletteer)
-library(sf)
 library(scales)
 library(ragg)
 library(gtools)
-library(ggridges)
-library(patchwork)
 library(extrafont)
 
 #Download vaccination data by MSOA
@@ -120,7 +117,7 @@ ggplot(vaxdeciles %>% filter(age=="Total"),
   theme(plot.title=element_text(face="bold", size=rel(1.6)),
         text=element_text(family="Roboto"))+
   labs(title="COVID vaccination rates are lower in more deprived areas in England",
-       subtitle="Number of adults vaccinated by MSOA compared compared to the estimated 80+ population in 2019.",
+       subtitle="Proportion of adults who have received at least one vaccine dose within every MSOA in England.\nEach MSOA contains roughly 6,000 people.",
        caption="Vaccination data from NHS England, Population data from ONS\nPlot by @VictimOfMaths")+
   annotate("text", x=0.7, y=9.9, label="Each circle = 1 MSOA", size=3, family="Roboto")+
   annotate("text", x=0.54, y=6.5, label="Population average", size=3, family="Roboto")+
