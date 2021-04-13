@@ -5,3 +5,7 @@ Code for my contributions to the #30DayChartChallenge - one new chart, on a loos
 ![Mountains](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/1Mountains.png)<br><br>
 **Day 8** Animals<br>
 ![Animals](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/8Animals.png)<br><br>
+**Day 12** Strips<br>
+![Strips](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/12Strips.png)<br><br>
+**Day 13** Correlation<br>
+![Correlation](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/13Correlation.png)<br><br>
