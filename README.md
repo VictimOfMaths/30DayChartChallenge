@@ -13,3 +13,5 @@ Code for my contributions to the #30DayChartChallenge - one new chart, on a loos
 ![Global Change](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/19GlobalChange.png)<br><br>
 **Day 21** Downwards<br>
 ![Downwards](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/21Downwards.png)<br><br>
+**Day 23** Ties<br>
+![Tiles](https://github.com/VictimOfMaths/30DayChartChallenege/blob/main/23Tiles.png)<br><br>
